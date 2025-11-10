@@ -37,8 +37,6 @@ The dataset includes information about movies and TV shows available on Netflix,
 - **Drama** and **Comedies** are the most popular genres.  
 - The majority of Netflix content originates from the **United States** and **India**.  
 
-## 📂 Dataset
-Dataset Source: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## 🚀 Future Improvements
 - Build a recommendation system using collaborative filtering.  
